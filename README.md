@@ -1,4 +1,3 @@
-# Hello!
-My name is adrrob1002, welcome to my GitHub profile!
+Hi! I'm Adrian, a 17 year old developer!
 
-This is WIP
+I'm currently building [Inka](https://www.github.com/adrrob1002/Inka)!
