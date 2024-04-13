@@ -1,1 +1,1 @@
-Hi! I'm Adrian, an 18 year old developer!
+Hello, I'm Adrian. I'm currently studying BSc Aerospace Engineering at TU Delft.
